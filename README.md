@@ -1,5 +1,5 @@
 # fusionImages
-Tous les codes nécessaires pour cacher une image dans une autre image et la récupérer.
+Tous les codes nécessaires pour cacher une image dans une autre image et la récupérer. (Lien vidéo youtube : https://youtu.be/QP9ZMG_XatA)
 
 
 fonction.py << contient toutes les fonctions utiles
